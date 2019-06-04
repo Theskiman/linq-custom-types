@@ -1,0 +1,11 @@
+C:\Users\Cliff\backend\linq-custom-types\bin\Debug\netcoreapp2.2\linq-custom-types.deps.json
+C:\Users\Cliff\backend\linq-custom-types\bin\Debug\netcoreapp2.2\linq-custom-types.runtimeconfig.json
+C:\Users\Cliff\backend\linq-custom-types\bin\Debug\netcoreapp2.2\linq-custom-types.runtimeconfig.dev.json
+C:\Users\Cliff\backend\linq-custom-types\bin\Debug\netcoreapp2.2\linq-custom-types.dll
+C:\Users\Cliff\backend\linq-custom-types\bin\Debug\netcoreapp2.2\linq-custom-types.pdb
+C:\Users\Cliff\backend\linq-custom-types\obj\Debug\netcoreapp2.2\linq-custom-types.csprojAssemblyReference.cache
+C:\Users\Cliff\backend\linq-custom-types\obj\Debug\netcoreapp2.2\linq-custom-types.csproj.CoreCompileInputs.cache
+C:\Users\Cliff\backend\linq-custom-types\obj\Debug\netcoreapp2.2\linq-custom-types.AssemblyInfoInputs.cache
+C:\Users\Cliff\backend\linq-custom-types\obj\Debug\netcoreapp2.2\linq-custom-types.AssemblyInfo.cs
+C:\Users\Cliff\backend\linq-custom-types\obj\Debug\netcoreapp2.2\linq-custom-types.dll
+C:\Users\Cliff\backend\linq-custom-types\obj\Debug\netcoreapp2.2\linq-custom-types.pdb
